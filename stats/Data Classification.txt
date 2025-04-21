@@ -1,0 +1,40 @@
+Data Classification
+
+Types Of Data
+	Numerical
+		Can be Measure
+		Continuous Data (Like weight of Students)
+		Discrete Data (Like number of Students)
+
+	Categorical
+		Data represent groups or categories
+		Can be Count
+			e.g. 	Car Brands: Audi, BMW, Mercedes
+				Answer to Yes/No
+
+
+Levels of Measurement
+	Qualitative
+		Nominal
+			Do not have order
+			Cannot Sort
+			Cannot perform numerical operation
+		Ordinal
+			Have Order
+
+
+	Quantitative
+		Interval
+		Ratio
+
+
+Graph of Categorical Nature
+	Table
+	Bar Chart
+	Pie Chart
+	Pareto Diagram
+
+
+Mean => Central Tendency of Data
+Median => Central Tendency of Data (we use median if our data has outliers value)
+Mode => 
